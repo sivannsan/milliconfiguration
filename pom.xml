@@ -30,7 +30,7 @@
         <dependency>
             <groupId>com.github.sivannsan</groupId>
             <artifactId>millidata</artifactId>
-            <version>445e93f</version>
+            <version>75e87dd</version>
         </dependency>
     </dependencies>
 </project>
