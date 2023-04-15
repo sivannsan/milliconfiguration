@@ -6,7 +6,7 @@
 
     <groupId>com.sivannsan</groupId>
     <artifactId>milliconfiguration</artifactId>
-    <version>1.0.0-alpha</version>
+    <version>1.0.0-beta</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -25,12 +25,12 @@
         <dependency>
             <groupId>com.github.sivannsan</groupId>
             <artifactId>foundation</artifactId>
-            <version>1.0.0-beta.1</version>
+            <version>1.0.0-beta.2</version>
         </dependency>
         <dependency>
             <groupId>com.github.sivannsan</groupId>
             <artifactId>millidata</artifactId>
-            <version>d7d75e2</version>
+            <version>1.0.0-beta.3</version>
         </dependency>
     </dependencies>
 </project>
